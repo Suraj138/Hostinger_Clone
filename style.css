@@ -1037,7 +1037,25 @@ footer .card .card-collection a {
 }
 .help ul {
   line-height: 1.5;
-  margin-left: 20px;
+  margin-left: 80px;
+}
+
+.tools h5 {
+  font-size: 1.2rem;
+  font-family: var(--main-font-family);
+  font-weight: 700;
+  color: var(--main-font-color);
+}
+.tools a {
+  font-size: 0.8rem;
+  font-family: var(--main-font-family);
+  font-weight: 400;
+  color: var(--main-font-color);
+  text-decoration: none;
+}
+.tools ul {
+  line-height: 1.5;
+  margin-left: 50px;
 }
 
 .footer-details {
